@@ -100,6 +100,15 @@ Live Demo:
 👉 https://property-matching.azurewebsites.net/
 
 ---
+---
+### 👩‍💻 Author
+**Ishpreet Singh**
+
+M.Tech
+Indian Institute of Technology Bombay
+Mail ID:
+25m0326@iitb.ac.in
+---
 
 ## ▶️ Running the Application Locally
 
@@ -109,9 +118,7 @@ cd property-recommendation-system
 pip install -r requirements.txt
 streamlit run app.py
 
-# 👩‍💻 Author
 
-**Ishpreet Singh**
 
 M.Tech
 Indian Institute of Technology Bombay
