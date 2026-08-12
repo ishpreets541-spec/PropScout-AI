@@ -120,9 +120,4 @@ streamlit run app.py
 
 
 
-M.Tech
-Indian Institute of Technology Bombay
-Mail ID:
-25m0326@iitb.ac.in
-
 
